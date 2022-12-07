@@ -23,8 +23,7 @@
 </p>
 <p>Планирую продолжить обучение/самообразование по направлению "Тестирование"</p>
 </span>
-<form action="https://hh.ru/resume/c912e984ff03fc5a0f0039ed1f6f524b574338" target="My CV">
-<button>Тыц</button>
+<a href="https://hh.ru/resume/c912e984ff03fc5a0f0039ed1f6f524b574338" target="My CV">
 </body>
 </html>
 
